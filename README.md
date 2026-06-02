@@ -24,4 +24,3 @@ Telecom customer churn dataset (~10,000 records, 50 features)
 | `D206.ipynb` | Main cleaning notebook |
 | `churn_raw_data.csv` | Original dataset |
 | `cleaned_churn_data.csv` | Output: cleaned dataset |
-| `D206 Performance Assessment.docx` | Written analysis report |
